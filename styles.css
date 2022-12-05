@@ -1,0 +1,12 @@
+* {
+    background-color: rgb(237, 243, 244);
+}
+
+.heading{
+    text-align: center;
+    font-family: Helvetica, "Times New Roman", sans-serif;    
+}
+
+.pageLink{
+    font-size: 22px;
+}
