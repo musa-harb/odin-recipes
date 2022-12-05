@@ -3,10 +3,30 @@
 }
 
 .heading{
-    text-align: center;
-    font-family: Helvetica, "Times New Roman", sans-serif;    
+    text-align: center;   
+}
+
+h2, .heading{
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
 .pageLink{
-    font-size: 22px;
+    font-size: 22px;    
+}
+
+.home{
+    display: block;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contentText{
+    font-size: 20px;
 }
